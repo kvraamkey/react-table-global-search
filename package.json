@@ -1,7 +1,7 @@
 {
   "name": "@kvraamkey/table-global-search",
-  "version": "1.0.2",
-  "description": "Made with create-react-library",
+  "version": "1.0.3",
+  "description": "React table global search with any table",
   "homepage": "https://kvraamkey.github.io/table-global-search/",
   "author": "Ramki A <kvraamkeydev@gmail.com>",
   "license": "MIT",
