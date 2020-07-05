@@ -26,6 +26,10 @@ class Example extends Component {
 }
 ```
 
+## Example
+
+[Check out with sample code](https://github.com/kvraamkey/table-global-search/tree/master/example)
+
 ## License
 
 MIT © [](https://github.com/)
