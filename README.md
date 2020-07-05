@@ -14,9 +14,7 @@ npm install --save @kvraamkey/table-global-search
 
 ```jsx
 import React, { Component } from 'react';
-
 import MyComponent from '@kvraamkey/table-global-search';
-import 'table-global-search/dist/index.css';
 
 class Example extends Component {
   const { filteredData, loading } = useTableSearch({
