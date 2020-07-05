@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { useTableSearch } from 'table-global-search';
-import 'table-global-search/dist/index.css';
+import { useTableSearch } from '@kvraamkey/table-global-search';
+import '@kvraamkey/table-global-search/dist/index.css';
 
 const getUser = async () => {
   const resp = await fetch('https://jsonplaceholder.typicode.com/users/');
