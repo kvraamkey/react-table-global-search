@@ -1,13 +1,14 @@
 {
-  "name": "@kvraamkey/table-global-search",
-  "version": "1.0.1",
-  "description": "Made with create-react-library",
+  "name": "@kvraamkey/react-table-global-search",
+  "version": "1.0.4",
+  "description": "React table global search with any table",
+  "homepage": "https://kvraamkey.github.io/react-table-global-search/",
   "author": "Ramki A <kvraamkeydev@gmail.com>",
   "license": "MIT",
   "repositories": [
     {
       "type": "git",
-      "url": "git@github.com:kvraamkey/table-global-search.git"
+      "url": "git@github.com:kvraamkey/react-table-global-search.git"
     }
   ],
   "main": "dist/index.js",
